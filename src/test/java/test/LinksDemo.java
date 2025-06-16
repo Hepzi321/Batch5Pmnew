@@ -23,6 +23,7 @@ public class LinksDemo {
 		{
 			String Url = tags.getAttribute("href");
 			LinksCheckerDemo.brokenlinkDemo(Url);
+			System.out.prinyln("My changes");
 		}
 	}
 
